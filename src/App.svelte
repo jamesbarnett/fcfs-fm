@@ -13,7 +13,7 @@
   <section class="flex flex-col gap-8 sm:grid sm:grid-cols-3 sm:items-center sm:max-w-[72rem] sm:mx-auto sm:gap-4">
     <Card styles="sm:row-start-1 sm:row-span-2"
       name="Supervisor"
-      blurb="Monitors activity to identify project roadblock"
+      blurb="Monitors activity to identify project roadblocks"
       icon="./images/icon-supervisor.svg"
       accent="cyan"
     />
