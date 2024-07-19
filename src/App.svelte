@@ -14,25 +14,25 @@
     <Card styles="sm:row-start-1 sm:row-span-2"
       name="Supervisor"
       blurb="Monitors activity to identify project roadblock"
-      icon="/images/icon-supervisor.svg"
+      icon="./images/icon-supervisor.svg"
       accent="cyan"
     />
     <Card styles="sm:col-start-2"
       name="Team Builder"
       blurb="Scans our talent network to create the optimal team for your project"
-      icon="/images/icon-team-builder.svg"
+      icon="./images/icon-team-builder.svg"
       accent="red"
     />
     <Card styles="sm:col-start-2"
       name="Karma"
       blurb="Regularly evaluates our talent to ensure quality"
-      icon="/images/icon-karma.svg"
+      icon="./images/icon-karma.svg"
       accent="orange"
     />
     <Card styles="sm:col-start-3 sm:row-start-1 sm:row-span-2"
       name="Calculator"
       blurb="Uses data from past projects to provide better delivery estimates"
-      icon="/images/icon-calculator.svg"
+      icon="./images/icon-calculator.svg"
       accent="blue"
     />
   </section>
