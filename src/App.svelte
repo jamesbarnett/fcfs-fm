@@ -2,7 +2,7 @@
   import Card from './Card.svelte';
 </script>
 <main class="bg-neutral-lightgray px-8 py-20">
-  <article class="pitch text-center pb-20">
+  <article class="pitch text-center pb-20 sm:pb-16">
     <h1 class="text-2xl font-light leading-loose sm:text-4xl sm:tracking-[.01em]">Reliable, efficient delivery</h1>
     <p class="text-2xl font-bold pb-4 sm:text-4xl sm:leading-relaxed sm:tracking-[.01em]">
       Powered by Technology
