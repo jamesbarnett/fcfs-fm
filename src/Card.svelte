@@ -6,18 +6,13 @@
   export let styles = undefined;
 </script>
 
-<div class="card rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-lg px-8 py-8 sm:justify-center {styles}" data-accent={accent}>
+<div class="card rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-xl shadow-slate-300 px-8 py-8 sm:justify-center {styles}" data-accent={accent}>
   <h2 class="text-xl font-bold pb-4">{name}</h2>
   <p class="font-light text-sm leading-relaxed sm:text-[0.875rem]">{blurb}</p>
   <img class="ms-auto mt-8" height="64" width="64" src={icon} alt="" /> 
 </div> 
 
 <style>
-
-  /*img {*/
-  /*  width: 64px;*/
-  /*  height: 64px;*/
-  /*}*/
   .card[data-accent="cyan"] {
     border-top-color: var(--clr-cyan);
   }
