@@ -7,7 +7,7 @@
     <p class="text-2xl font-bold pb-4 sm:text-4xl sm:leading-relaxed sm:tracking-[.01em]">
       Powered by Technology
     </p>
-    <p class="pitch-details font-light leading-relaxed text-center">Our Artificial Intelligence powered tools use millions of project data points 
+    <p class="pitch-details font-light leading-relaxed text-center sm:text-sm sm:leading-loose">Our Artificial Intelligence powered tools use millions of project data points 
       to ensure that your project is successful</p>
   </article>
   <section class="flex flex-col gap-8 sm:grid sm:grid-cols-3 sm:items-center sm:max-w-[72rem] sm:mx-auto sm:gap-4">
