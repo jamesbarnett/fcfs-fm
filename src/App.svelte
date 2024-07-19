@@ -11,7 +11,7 @@
       to ensure that your project is successful</p>
   </section>
   <section class="flex flex-col gap-8 sm:grid sm:grid-cols-3 sm:items-center sm:max-w-[1000px] sm:mx-auto">
-    <Card styles="sm:row-start-1 sm:row-span-4"
+    <Card styles="sm:row-start-1 sm:row-span-2"
       name="Supervisor"
       blurb="Monitors activity to identify project roadblock"
       icon="/images/icon-supervisor.svg"
@@ -29,7 +29,7 @@
       icon="/images/icon-karma.svg"
       accent="orange"
     />
-    <Card styles="sm:col-start-3 sm:row-start-1 sm:row-span-4"
+    <Card styles="sm:col-start-3 sm:row-start-1 sm:row-span-2"
       name="Calculator"
       blurb="Uses data from past projects to provide better delivery estimates"
       icon="/images/icon-calculator.svg"

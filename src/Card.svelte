@@ -6,7 +6,7 @@
   export let styles = undefined;
 </script>
 
-<div class="card {styles} rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-lg px-10 py-8 sm:row-span-2 sm:justify-center" data-accent={accent}>
+<div class="card rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-lg px-10 py-8 sm:justify-center {styles}" data-accent={accent}>
   <h2 class="text-xl font-bold">{name}</h2>
   <p class="font-light text-sm leading-relaxed">{blurb}</p>
   <img class="ms-auto mt-8" src={icon} alt="" /> 

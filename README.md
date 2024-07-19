@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jamesbarnett/fcfs-fm)
-- Live Site URL: [Add live site URL here](https://jamesbarnett.github.io/fcfs-fm)
+- Solution URL: [Github](https://github.com/jamesbarnett/fcfs-fm)
+- Live Site URL: [Github Pages](https://jamesbarnett.github.io/fcfs-fm)
 
 ## My process
 
