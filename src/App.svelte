@@ -3,8 +3,8 @@
 </script>
 <main class="bg-neutral-lightgray px-8 py-20">
   <section class="pitch text-center pb-20">
-    <h1 class="text-2xl font-light leading-loose">Reliable, efficient delivery</h1>
-    <p class="text-2xl font-bold pb-4">
+    <h1 class="text-2xl font-light leading-loose sm:text-4xl">Reliable, efficient delivery</h1>
+    <p class="text-2xl font-bold pb-4 sm:text-4xl">
       Powered by Technology
     </p>
     <p class="font-light leading-relaxed">Our Artificial Intelligence powered tools use millions of project data points 
