@@ -3,7 +3,7 @@
   export let blurb = undefined;
   export let icon = undefined;
   export let accent = undefined;
-  export let styles = "";
+  export let styles = undefined;
 </script>
 
 <div class="card {styles} rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-lg px-10 py-8 sm:row-span-2 sm:justify-center" data-accent={accent}>
