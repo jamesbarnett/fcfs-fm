@@ -9,7 +9,7 @@
 <div class="card rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-lg px-10 py-8 sm:justify-center {styles}" data-accent={accent}>
   <h2 class="text-xl font-bold">{name}</h2>
   <p class="font-light text-sm leading-relaxed">{blurb}</p>
-  <img class="ms-auto mt-8" size="64x64" src={icon} alt="" /> 
+  <img class="ms-auto mt-8" height="64" width="64" src={icon} alt="" /> 
 </div> 
 
 <style>
