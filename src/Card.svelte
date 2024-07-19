@@ -8,7 +8,7 @@
 
 <div class="card rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-xl shadow-slate-300 px-8 py-8 sm:justify-center {styles}" data-accent={accent}>
   <h2 class="text-xl font-bold pb-4">{name}</h2>
-  <p class="font-light text-sm leading-relaxed sm:text-[0.875rem]">{blurb}</p>
+  <p class="font-light text-sm leading-relaxed sm:text-[0.8125rem]">{blurb}</p>
   <img class="ms-auto mt-8" height="64" width="64" src={icon} alt="" /> 
 </div> 
 
