@@ -1,0 +1,40 @@
+<script>
+  export let name = undefined;
+  export let blurb = undefined;
+  export let icon = undefined;
+  export let accent = undefined;
+  export let styles = "";
+</script>
+
+<div class="card {styles} rounded-md bg-[white] w-full mx-auto sm:max-w-[50rem] shadow-lg px-10 py-8 sm:row-span-2 sm:justify-center" data-accent={accent}>
+  <h2 class="text-xl font-bold">{name}</h2>
+  <p class="font-light text-sm leading-relaxed">{blurb}</p>
+  <img class="ms-auto mt-8" src={icon} alt="" /> 
+</div> 
+
+<style>
+  .card[data-accent="cyan"] {
+    border-top-color: var(--clr-cyan);
+  }
+  .card[data-accent="red"] {
+    border-top-color: var(--clr-red);
+  }
+  .card[data-accent="orange"] {
+    border-top-color: var(--clr-orange);
+  }
+  .card[data-accent="blue"] {
+    border-top-color: var(--clr-blue);
+  }
+
+  .card {
+    max-width: 22rem;
+    border-top: 4px solid;
+  }
+
+  @media (min-width: 22rem) {
+    .card {
+      margin-left: auto;
+      margin-right: auto;
+    } 
+  }
+</style>
