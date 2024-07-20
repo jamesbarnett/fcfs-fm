@@ -10,7 +10,7 @@
     <p class="pitch-details font-light leading-relaxed text-center sm:text-sm sm:leading-loose">Our Artificial Intelligence powered tools use millions of project data points 
       to ensure that your project is successful</p>
   </article>
-  <section class="flex flex-col gap-8 sm:grid sm:grid-cols-3 sm:items-center sm:max-w-[72rem] sm:mx-auto sm:gap-4">
+  <article class="flex flex-col gap-8 sm:grid sm:grid-cols-3 sm:items-center sm:max-w-[72rem] sm:mx-auto sm:gap-4">
     <Card styles="sm:row-start-1 sm:row-span-2"
       name="Supervisor"
       blurb="Monitors activity to identify project roadblocks"
@@ -35,7 +35,7 @@
       icon="./images/icon-calculator.svg"
       accent="blue"
     />
-  </section>
+  </article>
 </main>
 
 <style>
